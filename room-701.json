@@ -1,9 +1,9 @@
 {
-  "version": 1,
   "scope": "room",
-  "snapshotKey": "room:701",
-  "storageId": 701,
-  "storageName": "Room Storage 701",
+  "itemIds": [],
+  "version": 1,
   "revision": "bootstrap-0",
-  "itemIds": []
+  "storageId": 701,
+  "snapshotKey": "room:701",
+  "storageName": "Room Storage 701"
 }
