@@ -1,9 +1,0 @@
-{
-  "scope": "world",
-  "itemIds": [],
-  "version": 1,
-  "revision": "bootstrap-0",
-  "storageId": 9000,
-  "snapshotKey": "world:9000",
-  "storageName": "World Storage"
-}
