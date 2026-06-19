@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "name": "Naturin", "password": "2925", "permission": 6 },
+    { "name": "AoNeKo0131", "password": "0131", "permission": 5 },
+    { "name": "huyuki_sirosaki", "password": "1213", "permission": 5 },
+    { "name": "たまもぉ", "password": "1212", "permission": 5 },
+    { "name": "frog school", "password": "", "permission": 4 },
+    { "name": "歯茎とれた", "password": "", "permission": 4 }
+  ]
+}
